@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Add script to run program here.
+# Complete bin/setup so that after it is
+# run, bin/parking_lot can be used to launch
+# it.
+
+    echo "========Interactive Console======="
+	echo "========Stock Exchange======="
+	echo "========Example: buy/sell units company user======="
+	echo "========Example: buy 10 1 1======="
+	echo "========Example: sell 6 1 1======="
+	rake stock:interactive_console 
+
+ 
