@@ -24,6 +24,10 @@ Things you may want to cover:
 	None
 *Setup:* 
 
+## Download repository
+	git clone git@github.com:dileeppdkr/stock-exchange.git
+	cd stock-exchange
+
 ## To install all dependencies, compile: 
 	bin/setup
 ## To run the program and launch the shell (Interactive shell): 
