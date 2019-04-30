@@ -39,10 +39,12 @@ Things you may want to cover:
 	bin/setup
 ## To run the code so it accepts input from a console:
 	bin/stock
+	buy units company_id user_id
 	$ buy 20 1 1
 	currently bought stock units 0
 	remaining quantity units to buy 20
 
+	sell units company_id user_id
 	$ sell 10 1 2
 	currently sold stock units 10
 	remaining quantity units to be sold 0
