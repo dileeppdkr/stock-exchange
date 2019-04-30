@@ -33,7 +33,7 @@ Things you may want to cover:
 
 ## To install all dependencies, compile: 
 	bin/setup
-## To run the code so it accepts input from a file: 
+## To run the code so it accepts input from a console:
 	bin/stock
 	$ buy 20 1 1
 	currently bought stock units 0
